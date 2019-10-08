@@ -5,3 +5,5 @@ Include several machine learning models to predict based on census features of a
 functions.py is the hand coded logistic regression model
 
 LR_keras.py is the keras implementation
+
+data.py converts the data from txt file to npy file 
